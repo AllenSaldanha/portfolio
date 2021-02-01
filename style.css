@@ -19,6 +19,14 @@ body{
 
 
 /* ABOUT */
+.about-stuff{
+  background-color:#c4b6b6;
+  padding: 2%;
+}
+.profile-pic{
+  border: solid 5px white;
+  border-radius: 50%;
+}
 .about-section{
     padding-top: 5%;
 }
@@ -26,22 +34,16 @@ body{
     font-size: 30px;
 }
 .about-content{
-    padding: 10% 0;
-    text-align: center;
+    text-align: left;
+    
 }
 .personal-button{
     text-align: center;
-    padding: 7% 0;
-}
-.but-content{
-    padding:1%;
-    margin: 2%;
 }
 .pers-but-link{
   background-color: #0A66C2; 
   border: none;
   color: white;
-  padding: 10px 0;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -52,7 +54,6 @@ body{
     background-color: gray; 
     border: none;
     color: white;
-    padding: 10px 0;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -63,7 +64,6 @@ body{
     background-color: #21B6A8; 
     border: none;
     color: white;
-    padding: 10px 0;
     text-align: center;
     text-decoration: none;
     display: inline-block;
