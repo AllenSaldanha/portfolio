@@ -47,7 +47,7 @@ body{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   width: 25%;
 }
 .pers-but-git{
@@ -57,7 +57,7 @@ body{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     width: 25%;
   }
   .pers-but-res{
@@ -67,7 +67,7 @@ body{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     width: 25%;
   }
 
